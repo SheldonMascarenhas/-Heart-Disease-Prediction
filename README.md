@@ -1,1 +1,2 @@
 # -Heart-Disease-Prediction
+In this notebook I have tried to predict the chances of one has heart disease or not based on various informations collected from the person. I have used 6 classifier algorithm and demonstrated the prediction accuracy score of each of the 6 algorithms. Relevent graphs are plotted as well. At the end I have plotted a graph showing the performance of the 6 algorithms for comparison.
